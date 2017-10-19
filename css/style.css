@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background-color: #8CAAE8;
+  background: linear-gradient(to bottom right, #8CAAE8, grey);
   /*background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;*/
