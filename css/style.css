@@ -10,7 +10,7 @@ body {
   /*background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;*/
-  font-family: Courier, Georgia, sans-serif;
+  font-family: Courier, Georgia, serif;
   font-size: 100%;
 }
 
@@ -26,8 +26,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Georgia', serif;
+  color: grey;
 }
 
 h1 {
@@ -41,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Georgia', serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
